@@ -14,7 +14,7 @@
 <ul>
   <li>Abhiroop Sarkar[https://github.com/Abhiroop2004]</li>
   <li>Debayan Ghosh</li>
-  <li>Kinshuk Ganguly</li>
+  <li>Kinshuk Ganguly[https://github.com/KinshukGanguly]</li>
   <li>Snehal Ghosh</li>
   <li>Subhajit Saha</li>
 </ul>
