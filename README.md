@@ -12,7 +12,7 @@
 **Team Members**
 
 <ul>
-  <li>Abhiroop Sarkar[https://github.com/Abhiroop2004]</li>
+  <li><a href="https://github.com/Abhiroop2004">Abhiroop Sarkar</li>
   <li>Debayan Ghosh</li>
   <li>Kinshuk Ganguly[https://github.com/KinshukGanguly]</li>
   <li><a href="https://github.com/IWontTellMyName">Snehal Ghosh</a>
