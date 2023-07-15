@@ -13,8 +13,8 @@
 
 <ul>
   <li><a href="https://github.com/Abhiroop2004">Abhiroop Sarkar</li>
-  <li>Debayan Ghosh</li>
-  <li>Kinshuk Ganguly[https://github.com/KinshukGanguly]</li>
+  <li><a href="https://github.com/debayangg">Debayan Ghosh</li>
+  <li><a href="https://github.com/KinshukGanguly">Kinshuk Ganguly</li>
   <li><a href="https://github.com/IWontTellMyName">Snehal Ghosh</a>
-  <li>Subhajit Saha</li>
+  <li><a href="https://github.com/Subhajitsdev">Subhajit Saha</li>
 </ul>
