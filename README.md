@@ -28,5 +28,5 @@ Recommended Crop:
   <li><a href="https://github.com/debayangg">Debayan Ghosh</li>
   <li><a href="https://github.com/KinshukGanguly">Kinshuk Ganguly</li>
   <li><a href="https://github.com/IWontTellMyName">Snehal Ghosh</a>
-  <li><a href="https://github.com/Subhajitsdev">Subhajit Saha</li>
+  <li><a href="">Subhajit Saha</li>
 </ul>
