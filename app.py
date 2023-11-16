@@ -54,7 +54,7 @@ def predict():
     return render_template('hello.html', prediction=result, img=crop+".png")
 
 @app.route('/esp_predict', methods=['POST'])
-def predict():
+def esp_predict():
     req=request.get_json()
     N = int(req['Nitrogen'])
     P = int(req['Phosporus'])
