@@ -12,7 +12,7 @@
 
 **Website**
 <br><br>
-General Homepageh:
+General Homepage:
 ![Screenshot (207)](https://github.com/debayangg/AgroGenie.ai/assets/73867798/fd95ea97-9ac2-4546-b65f-5df961376adb)
 Input Data by user:
 ![Screenshot (210)](https://github.com/debayangg/AgroGenie.ai/assets/73867798/3c773d1d-802c-4afa-b42f-352bc94eb332)
