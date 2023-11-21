@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from _myClass import LogisticRegression
+from ._myClass import LogisticRegression
 import numpy as np
 import os
 from pickle import load
