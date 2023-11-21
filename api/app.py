@@ -9,7 +9,7 @@ app = Flask(__name__,
             static_folder='../static',
             template_folder='../templates')
 
-dict_values = load(open('imp.pkl', 'rb'))
+dict_values = load(open('api/imp.pkl', 'rb'))
 loaded_model=LogisticRegression()
 loaded_model.dict_crop=dict_values
 path=os.getcwd()
