@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from myClass import LogisticRegression
+from _myClass import LogisticRegression
 import pandas as pd
 import numpy as np
 import sklearn
