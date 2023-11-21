@@ -1,27 +1,27 @@
 from flask import Flask, render_template, request
-from _myClass import LogisticRegression
+'''from _myClass import LogisticRegression
 import numpy as np
 import os
-from pickle import load
+from pickle import load'''
 
 app = Flask(__name__,
             static_url_path='', 
             static_folder='static',
             template_folder='templates')
 
-dict_values = load(open('imp.pkl', 'rb'))
+'''dict_values = load(open('imp.pkl', 'rb'))
 loaded_model=LogisticRegression()
 loaded_model.dict_crop=dict_values
-path=os.getcwd()
+path=os.getcwd()'''
 
-print(path)
+#print(path)
 
 @app.route('/')
 def home():
     return render_template('hello.html')
 
 
-@app.route('/predict', methods=['POST'])
+'''@app.route('/predict', methods=['POST'])
 def predict():
     N = int(request.form['Nitrogen'])
     P = int(request.form['Phosporus'])
@@ -54,6 +54,6 @@ def predict():
 def about():
     return render_template('about.html')
 
-
+'''
 if __name__ == '__main__':
     app.run(debug=True)
